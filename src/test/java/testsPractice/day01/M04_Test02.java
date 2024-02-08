@@ -48,7 +48,7 @@ public class M04_Test02 {
 
         if (resultDouble >30 ){
             System.out.println("biri bunu durdursun");
-        } else System.out.println("30dqan küçük");
+        } else System.out.println("30dan küçük");
 
 
     }
